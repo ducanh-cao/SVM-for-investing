@@ -1,1 +1,12 @@
 # SVM-for-investing
+![1](https://user-images.githubusercontent.com/79506350/173492546-fb4ef67e-169c-4696-9367-0c8f313ee300.png)
+![2](https://user-images.githubusercontent.com/79506350/173492558-0b97d3e5-56a0-48c6-87bb-3df939c0c45d.png)
+![3](https://user-images.githubusercontent.com/79506350/173492562-f3bbb6b7-5fcf-4f6f-80e9-14e3e27c620d.png)
+![4](https://user-images.githubusercontent.com/79506350/173492569-9527ba55-2db3-4704-a44d-41bd2d982c58.png)
+![5](https://user-images.githubusercontent.com/79506350/173492577-883b61e8-4f41-4aeb-9adc-520b99facf87.png)
+![6](https://user-images.githubusercontent.com/79506350/173492581-c9f671e7-56c2-408d-bef3-b7526fa3482c.png)
+![7](https://user-images.githubusercontent.com/79506350/173492583-14a58e3a-e1ea-45ae-a6ed-c4fb7a0fdf9d.png)
+![8](https://user-images.githubusercontent.com/79506350/173492584-b3ff737a-1459-4db6-b219-a49c2d91f674.png)
+![9](https://user-images.githubusercontent.com/79506350/173492593-915cfa88-82b8-45af-83ee-dab1bf2c0367.png)
+![10](https://user-images.githubusercontent.com/79506350/173492599-7e8969eb-df8f-482b-9b52-b04b03399bb4.png)
+![11](https://user-images.githubusercontent.com/79506350/173492600-f6eaf4cc-77d8-4daf-a2ac-ef4e0e2be6e1.png)
